@@ -1,5 +1,5 @@
 {
-    "name": "backdoor/bag",
+    "name": "backdoorlib/bag",
     "type": "library",
     "keywords": ["bag", "data", "helper"],
     "license": "MIT",

@@ -1,5 +1,5 @@
 {
-    "name": "backdoor/router",
+    "name": "backdoorlib/router",
     "type": "library",
     "keywords": ["route", "http", "router"],
     "license": "MIT",

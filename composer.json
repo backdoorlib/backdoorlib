@@ -1,5 +1,5 @@
 {
-    "name": "backdoor/backdoor",
+    "name": "backdoorlib/backdoor",
     "type": "library",
     "description": "The Backdoor PHP framework",
     "keywords": ["framework", "dev"],

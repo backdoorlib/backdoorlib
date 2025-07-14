@@ -1,5 +1,5 @@
 {
-    "name": "backdoor/querybuilder",
+    "name": "backdoorlib/querybuilder",
     "type": "library",
     "keywords": ["sql", "query", "mysql"],
     "license": "MIT",
