@@ -1,0 +1,14 @@
+{
+    "name": "backdoor/router",
+    "type": "library",
+    "keywords": ["route", "http", "router"],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Backdoor\\Router": ""
+        }
+    }
+}

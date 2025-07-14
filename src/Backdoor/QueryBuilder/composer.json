@@ -1,0 +1,14 @@
+{
+    "name": "backdoor/querybuilder",
+    "type": "library",
+    "keywords": ["sql", "query", "mysql"],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Backdoor\\QueryBuilder": ""
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "backdoor/backdoor",
+    "type": "library",
+    "description": "The Backdoor PHP framework",
+    "keywords": ["framework", "dev"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dislayser aza",
+            "email": "duslayser@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Backdoor\\": "src/Backdoor"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}

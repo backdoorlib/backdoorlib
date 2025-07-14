@@ -1,0 +1,14 @@
+{
+    "name": "backdoor/bag",
+    "type": "library",
+    "keywords": ["bag", "data", "helper"],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Backdoor\\Bag": ""
+        }
+    }
+}
