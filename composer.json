@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "dislayser aza",
-            "email": "duslayser@gmail.com"
+            "email": "dislayser@gmail.com"
         }
     ],
     "autoload": {
@@ -17,5 +17,6 @@
     },
     "require": {
         "php": ">=8.2"
-    }
+    },
+    "minimum-stability": "dev"
 }
